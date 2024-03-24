@@ -1,11 +1,11 @@
-/* TODO: Label selector type */
+/* TODO: Universal Selector */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* TODO: Element selector */
 body {
-  background-color: goldenrod;
+  background-color: rgb(197, 187, 44);
 }
 
 header,
@@ -14,7 +14,7 @@ footer {
   height: 100px;
   line-height: 100px;
   color: blueviolet;
-  background-color: gold;
+  background-color: rgb(208, 255, 0);
 }
 
 figure {
@@ -26,11 +26,11 @@ img{
   height: 200px;
 }
 
-/* TODO: Label selector type */
+/* TODO: Class selector */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* TODO: ID selector */
 #contact-section {
   background-color: gold}
